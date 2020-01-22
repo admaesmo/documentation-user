@@ -1,30 +1,32 @@
-===========================================
-Increase your sales with suggested products
-===========================================
+=====================
+Add optional products
+=====================
 
-The use of suggested products is an attempt to offer related and useful
-products to your client. For instance, a client purchasing a cellphone
-could be shown accessories like a protective case, a screen cover, and
-headset.
+The use of optional products is a marketing strategy for cross-selling products along with a core
+product. The aim is to offer useful and related products to your customers. For instance, if a
+customer wants to buy a car, he has the choice to order an automatic opening trunk and massaging
+seats, or not to order such high quality products and simply buy his car.
 
-Add suggested products to your quotation templates
-==================================================
+Add optional products to your quotation templates
+=================================================
 
-Suggested products can be set on *Quotation Templates*. See :doc:`quote_template`.
+Be sure to check out our documentation about :doc:`quote_template` to understand how you can
+enable, create, design and manage your own quotation templates before reading this part.
 
-Once on a template, you can see a *Suggested Products* tab where you
-can add related products or services.
+For each template, you have an **Optional Products** tab where you can add related products or
+services.
 
-.. image:: media/optional_items01.png
+.. image:: media/optional_products_1.png
    :align: center
+   :class: img-thumbnail
+   :alt: How add optional products to your quotation templates
 
-You can also add or modify suggested products on the quotation.
+Add optional products to your quotations
+========================================
 
-Add suggested products to the quotation
-=======================================
-
-When opening the quotation from the received email, the customer can add
-the suggested products to the order.
+For your information, you can also add or modify optional products directly on quotations. Indeed,
+when customers open a quotation from a received email, they can easily add different optional
+products to their order.
 
 .. image:: media/optional_items02.png
    :align: center
@@ -46,3 +48,6 @@ sales order, letting the salesperson see it.
 
 .. image:: media/optional_items05.png
    :align: center
+
+.. seealso::
+   - :doc:`quote_template`
